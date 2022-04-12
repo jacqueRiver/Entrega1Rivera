@@ -36,7 +36,7 @@ html, body {
  * Background colors 
  */
 .blue-bg {
-  background-color: #196fc2;
+  background-color: #000000;
 }
 
 /* 
@@ -250,7 +250,7 @@ html, body {
 }
 
 .social-icons.small .rectangle:hover i {
-  color: #196fc0;
+  color: #000000;
 }
 
 .social-icons .rectangle {
@@ -279,7 +279,8 @@ html, body {
   position: relative;
   padding: 0 30px 0 15px;
   height: 60px;
-  background-color: #004b91;
+  background-color: #000000;
+  border-color: #fff;
   z-index: 2;
 }
 
@@ -290,7 +291,8 @@ html, body {
   height: 100%;
   top: 0;
   right: 0;
-  background-color: #004b91;
+  background-color: #000000;
+  border-color: #fff;
 }
 
 .site-logo a {
@@ -306,7 +308,8 @@ html, body {
 
 /* Navigation */
 .site-navigation {
-  background-color: #196fc2;
+  background-color: #000000;
+  border-color: #fff;
 }
 
 .site-navigation.affix {
@@ -1622,7 +1625,7 @@ html, body {
 .team-member .team-member-back {
   padding: 0 20px;
   display: table;
-  background: #196fc2;
+  background: #000;
   text-align: center;
   color: #ffffff;
   transform: rotateY(-180deg);
@@ -2202,7 +2205,7 @@ html, body {
 
 /* Sections background: Quote */
 .section-quote {
-  background: url(../img/quote.jpg) center no-repeat fixed;
+  background: url(../img/batalla.jpg) center no-repeat fixed;
 }
 
 .section-quote p {
@@ -2385,7 +2388,7 @@ textarea.form-control {
 
 .section-networks a:hover, .section-networks a:focus {
   background-color: #ffffff;
-  color: #196fc2;
+  color: #000000;
 }
 
 /* FOOTER

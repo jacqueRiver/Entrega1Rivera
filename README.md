@@ -2,6 +2,79 @@
 
 Coder mi primer proyecto
 
+# URL DEL FORMULARIO  
+http://127.0.0.1:8000/v2/pentrega/
+
+# URL DEL FORMULARIO SEARCH
+http://127.0.0.1:8000/v2/search/
+
+
+# Primer entrega MODELS
+
+ruta : carpeta proyectocoder  > carpeta Pentrega  > file models.py
+
+
+# Primer entrega FOMRULARIO VISTA
+
+ruta: carpeta proyectocoder  > carpeta Pentrega  > file views.py
+
+
+# Primer entrega FOMRULARIO URLS
+
+ruta: carpeta proyectocoder  > carpeta v2  > file urls.py
+
+
+# Primer entrega FOMRULARIO HTML
+
+ruta: carpeta proyectocoder  > carpeta templates  > carpeta v2 > index.html
+
+
+# Primer entrega FOMRULARIO SEARCH VISTA
+
+ruta: carpeta proyectocoder  > carpeta Pentrega  > file views.py
+
+
+# Primer entrega FOMRULARIO SEARCH URLS
+
+ruta: carpeta proyectocoder  > carpeta v2  > file urls.py
+
+
+# Primer entrega FOMRULARIO SEARCH HTML
+
+ruta: carpeta proyectocoder  > carpeta templates  > carpeta v2 > search.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/cookiecutter/cookiecutter-django/)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
